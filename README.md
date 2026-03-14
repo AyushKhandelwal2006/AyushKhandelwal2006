@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://image2url.com/r2/default/files/1772570843492-bbe0e0f3-0ca4-4948-9171-be33093b90ac.png" />
+  <img src="https://image2url.com/r2/default/images/1773493130763-54fc7167-6766-4e04-8689-fa27721f0bdd.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Khandelwal</h1>
 <h3 align="center">Frontend Developer | DSA Learner | Tech Explorer 🚀</h3>
